@@ -20,7 +20,7 @@ body {
     width: 100%;
     background-color: black;
     color: white;
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
     overflow-x: hidden;
 }
 
@@ -322,7 +322,7 @@ body {
                 @apply space-y-4 lg:translate-y-20;
 
                 #title {
-                    @apply font-modern-negra md:text-6xl text-3xl text-yellow max-w-40;
+                    @apply font-modern-negra md:text-6xl text-3xl text-yellow max-w-40 z-50;
                 }
             }
 
