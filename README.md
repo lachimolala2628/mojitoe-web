@@ -52,4 +52,4 @@ npm run build
 ## ✍🏻 Author
 
 **Ayush Kumar**
-Frontend Developer passionate about turning complex ideas into clean, responsive, and user-friendly web experiences.
+Creative Frontend Developer passionate about turning complex ideas into clean, responsive, and user-friendly web experiences.
